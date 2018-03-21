@@ -1,2 +1,1 @@
-"# OSRSPingChecker" 
 # OSRSPingChecker
